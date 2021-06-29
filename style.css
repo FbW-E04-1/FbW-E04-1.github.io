@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: tomato;
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+}
