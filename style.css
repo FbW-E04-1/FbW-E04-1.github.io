@@ -5,7 +5,8 @@
 }
 
 body {
-    background: tomato;
+    background: teal;
+    color: white;
     font-family: Helvetica, Arial, Helvetica, sans-serif;
     min-height: 100vh;
 }
